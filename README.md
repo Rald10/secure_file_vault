@@ -3,15 +3,15 @@
 
 ---
 
-## ✅ **README for Streamlit App — Secure File Vault**
+ # ✅ **README for Streamlit App — Secure File Vault**
 
-```markdown
-# 🔐 Secure File Vault — Streamlit Web App
+
+## 🔐 **Secure File Vault — Streamlit Web App**
 
 A beginner-friendly **Secure File Vault** built with **Python**, **Streamlit**, and **Cryptography** library.  
 Encrypt and decrypt files directly in your browser — nothing is stored on any server.
 
-##✅ Features
+## ✅ *Features*
 - Upload any file for encryption or decryption
 - Password-protected encryption
 - Download encrypted or decrypted files
@@ -24,19 +24,19 @@ Encrypt and decrypt files directly in your browser — nothing is stored on any 
 
 ## 🛠️ Getting Started
 
-### Clone this repository:
+ Clone this repository:
 ```bash
 git clone https://github.com/yourusername/secure-file-vault.git
 cd secure-file-vault
-````
 
-### Install dependencies:
+```
+## Install dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### Run locally:
+## Run locally:
 
 ```bash
 streamlit run secure_file_vault.py
