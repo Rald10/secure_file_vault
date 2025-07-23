@@ -3,7 +3,7 @@
 
 ---
 
- # ✅ **README for Streamlit App — Secure File Vault**
+ ## ✅ **README for Streamlit App — Secure File Vault**
 
 
 ## 🔐 **Secure File Vault — Streamlit Web App**
